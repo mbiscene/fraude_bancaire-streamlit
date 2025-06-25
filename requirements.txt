@@ -1,4 +1,3 @@
-Les bibliothèques uttilisées
 streamlit
 pandas
 scikit-learn
